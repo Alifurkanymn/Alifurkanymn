@@ -11,6 +11,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Alifurkanymn&show_icons=true&theme=radical)
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Alifurkanymn&layout=compact&langs_count=8&theme=algolia"/>
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/Alifurkanymn) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/alifurkanymn/) 
 <!--
